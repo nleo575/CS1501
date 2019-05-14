@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head><title>CS 1501 Fall 2018 Assignment 1 Test Files</title></head>
+<body>
+<h2>CS 1501 Assignment 1 Test Files</h2>
+<h3>
+Note: When using MyDictionary you are only required to find a single solution for each test file, but when using DLB you should fine all solutions (except where noted below).
+<br/>
+<br/>
+<a href="test3a.txt">test3a.txt</a><strong> <a href="test3a-out.txt">test3a-out.txt</a> Simple 3x3 board.  This has 392586 solutions.  Included is a link to some of them in the order they were found by my program.  Your program does not nececessarily need to produce these solutions in the same order as mine but looking at the ordering of these solutions may help you with your algorithm.
+<br/><br/>
+<a href="test3b.txt">test3b.txt</a> Restricted 3x3 board.  This should have ONE solution only.
+<br/><br/>
+<a href="test4a.txt">test4a.txt</a> Simple 4x4 board.  This one has 1621736 solutions.
+<br/><br/>
+<a href="test4b.txt">test4b.txt</a> Another 4x4 board. This one has 10872485 solutions.
+<br/><br/>
+<a href="test4c.txt">test4c.txt</a> Restricted version of example from Assignment Sheet. This one has 47845 solutions.
+<br/><br/>
+<a href="test4d.txt">test4d.txt</a> No solution (should be determined quickly if a good pruning algorithm is used).
+<br/><br/>
+<a href="test4e.txt">test4e.txt</a> No solution, but may take MUCH longer to determine due to the backtracking required.  Think about why.  Experiment if you'd like with placements of a single x on the board.  Some will yield solutions, and others will not, with greatly varying runtimes based on the location of the x.
+<br/><br/>
+<a href="test4f.txt">test4f.txt</a> More restricted version of example from Assignment Sheet.  This should have ONE solution only.
+<br/><br/>
+<a href="test5a.txt">test5a.txt</a> Simple 5x5 board.  This one has 53399 solutions.
+<br/><br/>
+<a href="test6a.txt">test6a.txt</a> Simple 6x6 board.  Using DLB my algorithm found the first solution in about 2-3 minutes.  For MyDictionary it would be considerably longer.  My program found a total of 345 solutions and to find all of them it took roughly 3.5 hours.
+<br/><br/>
+<a href="test6b.txt">test6b.txt</a> This also has a LOT of solutions.  Using DLB my algorithm found the first solution in under 2 seconds. It is still running (on and off) on my laptop and currently has over 91,000,000 solutions.  You clearly do not have to run this to completion.  For MyDictionary it took about 20 minutes to find the first solution.
+<br/><br/>
+<a href="test6c.txt">test6c.txt</a> Board with no solution but that still requires a lot of backtracking.  With the DLB my algorithm took about 16 seconds.  With MyDictionary I stopped it after 2.5 hours without terminating.
+<br/><br/>
+<a href="test7a.txt">test7a.txt</a>
+<br/>
+<a href="test8a.txt">test8a.txt</a>
+<br/>
+The above are basic 7x7 and 8x8 boards.  The run-times for these should be extremely high given the MyDictionary implementation of DictInterface.  However, the time for the DLB may not be as bad as you would initially think.  One thing to keep in mind is that because the words must all be longer, there may in fact be fewer possible solutions than there would be for the smaller board sizes.  In fact neither of these boards has a solution.
+<br/>
+<br/>
+<a href="test8b.txt">test8b.txt</a> <a href="test8b-out.txt">test8b-out.txt</a>  This restricted 8x8 board has many solutions but it may take some time to find even one and it will take a LONG time to find all of them.  I have included a partial list of solutions for you to examine.
+<br/>
+<br/>
+<a href="test8c.txt">test8c.txt</a> This restricted 8x8 board is a combination of boards test3b.txt and test4f.txt.  It has only one solution.  With MyDictionary it took my computer about 10 minutes and with the DLB it took about 2 seconds.
+<br/>
+<br/>

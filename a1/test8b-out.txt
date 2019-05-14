@@ -1,0 +1,421 @@
+Using dlb
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	b 	a 	t 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	e 	a 	l 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	b 	a 	t 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	e 	r 	o 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	b 	a 	t 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	e 	s 	t 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	b 	a 	t 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	e 	t 	a 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	b 	a 	t 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	e 	u 	s 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	k 	i 	n 	- 	o 	a 	k 	
+g 	a 	r 	d 	e 	n 	i 	a 	
+e 	t 	c 	- 	- 	e 	d 	t 	
+- 	z 	e 	a 	l 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	k 	i 	n 	- 	o 	a 	k 	
+g 	a 	r 	d 	e 	n 	i 	a 	
+e 	t 	c 	- 	- 	e 	d 	t 	
+- 	z 	e 	r 	o 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	k 	i 	n 	- 	o 	a 	k 	
+g 	a 	r 	d 	e 	n 	i 	a 	
+e 	t 	c 	- 	- 	e 	d 	t 	
+- 	z 	e 	s 	t 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	k 	i 	n 	- 	o 	a 	k 	
+g 	a 	r 	d 	e 	n 	i 	a 	
+e 	t 	c 	- 	- 	e 	d 	t 	
+- 	z 	e 	t 	a 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	k 	i 	n 	- 	o 	a 	k 	
+g 	a 	r 	d 	e 	n 	i 	a 	
+e 	t 	c 	- 	- 	e 	d 	t 	
+- 	z 	e 	u 	s 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+e 	t 	a 	- 	- 	e 	d 	t 	
+- 	z 	o 	n 	e 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+e 	t 	a 	- 	- 	e 	d 	t 	
+- 	z 	o 	o 	m 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+p 	t 	a 	- 	- 	e 	d 	t 	
+- 	z 	o 	n 	e 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+p 	t 	a 	- 	- 	e 	d 	t 	
+- 	z 	o 	o 	m 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+e 	t 	a 	- 	- 	e 	s 	t 	
+- 	z 	o 	n 	e 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+e 	t 	a 	- 	- 	e 	s 	t 	
+- 	z 	o 	o 	m 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+p 	t 	a 	- 	- 	e 	s 	t 	
+- 	z 	o 	n 	e 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	c 	a 	s 	t 	- 	- 	
+a 	l 	a 	i 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+p 	t 	a 	- 	- 	e 	s 	t 	
+- 	z 	o 	o 	m 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	h 	a 	s 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	o 	n 	e 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	h 	a 	s 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	o 	o 	m 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	h 	o 	s 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	o 	n 	e 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	h 	o 	s 	t 	- 	- 	
+g 	r 	e 	w 	- 	o 	a 	k 	
+m 	i 	l 	l 	e 	n 	i 	a 	
+t 	t 	l 	- 	- 	e 	d 	t 	
+- 	z 	o 	o 	m 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	a 	l 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	r 	o 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	s 	t 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	t 	a 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	u 	s 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	a 	l 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	r 	o 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	s 	t 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	t 	a 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	e 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	u 	s 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	a 	l 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	r 	o 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	s 	t 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	t 	a 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	r 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	d 	t 	
+- 	z 	e 	u 	s 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	a 	l 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	r 	o 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	s 	t 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	t 	a 	- 	- 	z 	
+
+Solution Found: 
+a 	c 	- 	b 	l 	a 	t 	z 	
+w 	i 	s 	e 	a 	c 	r 	e 	
+l 	a 	- 	- 	s 	e 	w 	n 	
+- 	- 	l 	o 	s 	t 	- 	- 	
+a 	q 	u 	a 	- 	a 	s 	k 	
+l 	u 	c 	r 	e 	t 	i 	a 	
+a 	i 	r 	- 	- 	e 	s 	t 	
+- 	z 	e 	u 	s 	- 	- 	z 	
+
