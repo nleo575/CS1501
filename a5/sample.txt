@@ -1,0 +1,400 @@
+CS 1501 Fall 2018
+Some sample commands and output for Assignment 5
+Your output does not have to look exactly like this, but it should convey
+the same information in an obvious, clear way.  Note that the TA may use
+additional commands when testing your programs, so make sure you implement
+everything specified in the assignment sheet.
+
+INPUT FILE: a5data1.txt
+-----------------------
+
+MINIMUM SPANNING TREE
+---------------------
+The edges in the MST based on distance follow:
+Erie,Pittsburgh : 127
+Altoona,Johnstown : 43
+Johnstown,Pittsburgh : 66
+Harrisburg,Altoona : 134
+Philadelphia,Allentown : 62
+Scranton,Philadelphia : 125
+Reading,Harrisburg : 59
+Allentown,Reading : 35
+
+SHORTEST COST PATH from Johnstown to Allentown
+----------------------------------------------
+Shortest cost from Johnstown to Allentown is 575
+Path with edges (in reverse order):
+Allentown 150 Philadelphia 175 Harrisburg 125 Pittsburgh 125 Johnstown
+
+SHORTEST DISTANCE PATH from Johnstown to Allentown
+--------------------------------------------------
+Shortest distance from Johnstown to Allentown is 271
+Path with edges (in reverse order):
+Allentown 35 Reading 59 Harrisburg 134 Altoona 43 Johnstown
+
+FEWEST HOPS from Johnstown to Allentown
+---------------------------------------
+Fewest hops from Johnstown to Allentown is 3
+Path (in reverse order):
+Allentown Philadelphia Pittsburgh Johnstown
+
+ALL PATHS OF COST 400 OR LESS
+Note that paths are duplicated, once from each end city's point of view
+-----------------------------------------------------------------------
+List of paths at most 400 in length:
+Cost: 200 Path (reversed): Erie 200 Pittsburgh
+
+Cost: 125 Path (reversed): Johnstown 125 Pittsburgh
+
+Cost: 275 Path (reversed): Altoona 150 Johnstown 125 Pittsburgh
+
+Cost: 125 Path (reversed): Harrisburg 125 Pittsburgh
+
+Cost: 350 Path (reversed): Altoona 225 Harrisburg 125 Pittsburgh
+
+Cost: 300 Path (reversed): Philadelphia 175 Harrisburg 125 Pittsburgh
+
+Cost: 325 Path (reversed): Reading 200 Harrisburg 125 Pittsburgh
+
+Cost: 200 Path (reversed): Pittsburgh 200 Erie
+
+Cost: 325 Path (reversed): Johnstown 125 Pittsburgh 200 Erie
+
+Cost: 325 Path (reversed): Harrisburg 125 Pittsburgh 200 Erie
+
+Cost: 150 Path (reversed): Johnstown 150 Altoona
+
+Cost: 275 Path (reversed): Pittsburgh 125 Johnstown 150 Altoona
+
+Cost: 400 Path (reversed): Harrisburg 125 Pittsburgh 125 Johnstown 150 Altoona
+
+Cost: 225 Path (reversed): Harrisburg 225 Altoona
+
+Cost: 350 Path (reversed): Pittsburgh 125 Harrisburg 225 Altoona
+
+Cost: 400 Path (reversed): Philadelphia 175 Harrisburg 225 Altoona
+
+Cost: 125 Path (reversed): Pittsburgh 125 Johnstown
+
+Cost: 325 Path (reversed): Erie 200 Pittsburgh 125 Johnstown
+
+Cost: 250 Path (reversed): Harrisburg 125 Pittsburgh 125 Johnstown
+
+Cost: 150 Path (reversed): Altoona 150 Johnstown
+
+Cost: 375 Path (reversed): Harrisburg 225 Altoona 150 Johnstown
+
+Cost: 125 Path (reversed): Pittsburgh 125 Harrisburg
+
+Cost: 325 Path (reversed): Erie 200 Pittsburgh 125 Harrisburg
+
+Cost: 250 Path (reversed): Johnstown 125 Pittsburgh 125 Harrisburg
+
+Cost: 400 Path (reversed): Altoona 150 Johnstown 125 Pittsburgh 125 Harrisburg
+
+Cost: 225 Path (reversed): Altoona 225 Harrisburg
+
+Cost: 375 Path (reversed): Johnstown 150 Altoona 225 Harrisburg
+
+Cost: 175 Path (reversed): Philadelphia 175 Harrisburg
+
+Cost: 325 Path (reversed): Allentown 150 Philadelphia 175 Harrisburg
+
+Cost: 200 Path (reversed): Reading 200 Harrisburg
+
+Cost: 375 Path (reversed): Allentown 175 Reading 200 Harrisburg
+
+Cost: 175 Path (reversed): Harrisburg 175 Philadelphia
+
+Cost: 300 Path (reversed): Pittsburgh 125 Harrisburg 175 Philadelphia
+
+Cost: 400 Path (reversed): Altoona 225 Harrisburg 175 Philadelphia
+
+Cost: 375 Path (reversed): Reading 200 Harrisburg 175 Philadelphia
+
+Cost: 275 Path (reversed): Scranton 275 Philadelphia
+
+Cost: 150 Path (reversed): Allentown 150 Philadelphia
+
+Cost: 325 Path (reversed): Reading 175 Allentown 150 Philadelphia
+
+Cost: 275 Path (reversed): Philadelphia 275 Scranton
+
+Cost: 200 Path (reversed): Harrisburg 200 Reading
+
+Cost: 325 Path (reversed): Pittsburgh 125 Harrisburg 200 Reading
+
+Cost: 375 Path (reversed): Philadelphia 175 Harrisburg 200 Reading
+
+Cost: 175 Path (reversed): Allentown 175 Reading
+
+Cost: 325 Path (reversed): Philadelphia 150 Allentown 175 Reading
+
+Cost: 150 Path (reversed): Philadelphia 150 Allentown
+
+Cost: 325 Path (reversed): Harrisburg 175 Philadelphia 150 Allentown
+
+Cost: 175 Path (reversed): Reading 175 Allentown
+
+Cost: 375 Path (reversed): Harrisburg 200 Reading 175 Allentown
+
+
+INPUT FILE: a5data2.txt
+----------------------
+
+MINIMUM SPANNING TREE
+---------------------
+The edges in the MST based on distance follow:
+London,Paris : 213
+NewYork,London : 3458
+Paris,Berlin : 545
+Tokyo,Calcutta : 3194
+Sydney,HongKong : 4584
+HongKong,Tokyo : 1794
+Rome,Paris : 697
+LosAngeles,NewYork : 2451
+Calcutta,Cairo : 3539
+Caracas,NewYork : 2132
+Moscow,Berlin : 1004
+BuenosAires,Caracas : 3168
+Istanbul,Moscow : 1091
+Cairo,Istanbul : 768
+
+SHORTEST COST PATH from Tokyo to BuenosAires
+----------------------------------------------
+Shortest cost from Tokyo to BuenosAires is 2855
+Path with edges (in reverse order):
+BuenosAires 480 NewYork 625 LosAngeles 1750 Tokyo
+
+SHORTEST DISTANCE PATH from Tokyo to BuenosAires
+----------------------------------------------
+Shortest distance from Tokyo to BuenosAires is 12349
+Path with edges (in reverse order):
+BuenosAires 6916 LosAngeles 5433 Tokyo
+
+FEWEST HOPS PATH from Tokyo to BuenosAires
+----------------------------------------------
+Fewest hops from Tokyo to BuenosAires is 2
+Path (in reverse order):
+BuenosAires LosAngeles Tokyo
+
+ALL PATHS OF COST 800 OR LESS
+Note that paths are duplicated, once from each end city's point of view
+-----------------------------------------------------------------------
+List of paths at most 800 in length:
+Cost: 150 Path (reversed): London 150 Berlin
+
+Cost: 625 Path (reversed): Paris 475 London 150 Berlin
+
+Cost: 375 Path (reversed): Rome 225 London 150 Berlin
+
+Cost: 595 Path (reversed): Paris 220 Rome 225 London 150 Berlin
+
+Cost: 505 Path (reversed): Moscow 130 Rome 225 London 150 Berlin
+
+Cost: 450 Path (reversed): Paris 450 Berlin
+
+Cost: 800 Path (reversed): NewYork 350 Paris 450 Berlin
+
+Cost: 670 Path (reversed): Rome 220 Paris 450 Berlin
+
+Cost: 800 Path (reversed): Moscow 130 Rome 220 Paris 450 Berlin
+
+Cost: 250 Path (reversed): Rome 250 Berlin
+
+Cost: 475 Path (reversed): London 225 Rome 250 Berlin
+
+Cost: 470 Path (reversed): Paris 220 Rome 250 Berlin
+
+Cost: 380 Path (reversed): Moscow 130 Rome 250 Berlin
+
+Cost: 750 Path (reversed): Moscow 750 Berlin
+
+Cost: 150 Path (reversed): Berlin 150 London
+
+Cost: 600 Path (reversed): Paris 450 Berlin 150 London
+
+Cost: 400 Path (reversed): Rome 250 Berlin 150 London
+
+Cost: 620 Path (reversed): Paris 220 Rome 250 Berlin 150 London
+
+Cost: 530 Path (reversed): Moscow 130 Rome 250 Berlin 150 London
+
+Cost: 475 Path (reversed): Paris 475 London
+
+Cost: 695 Path (reversed): Rome 220 Paris 475 London
+
+Cost: 225 Path (reversed): Rome 225 London
+
+Cost: 475 Path (reversed): Berlin 250 Rome 225 London
+
+Cost: 445 Path (reversed): Paris 220 Rome 225 London
+
+Cost: 795 Path (reversed): NewYork 350 Paris 220 Rome 225 London
+
+Cost: 355 Path (reversed): Moscow 130 Rome 225 London
+
+Cost: 725 Path (reversed): Calcutta 725 London
+
+Cost: 350 Path (reversed): Paris 350 NewYork
+
+Cost: 800 Path (reversed): Berlin 450 Paris 350 NewYork
+
+Cost: 570 Path (reversed): Rome 220 Paris 350 NewYork
+
+Cost: 795 Path (reversed): London 225 Rome 220 Paris 350 NewYork
+
+Cost: 700 Path (reversed): Moscow 130 Rome 220 Paris 350 NewYork
+
+Cost: 625 Path (reversed): LosAngeles 625 NewYork
+
+Cost: 275 Path (reversed): Caracas 275 NewYork
+
+Cost: 480 Path (reversed): BuenosAires 480 NewYork
+
+Cost: 450 Path (reversed): Berlin 450 Paris
+
+Cost: 600 Path (reversed): London 150 Berlin 450 Paris
+
+Cost: 700 Path (reversed): Rome 250 Berlin 450 Paris
+
+Cost: 475 Path (reversed): London 475 Paris
+
+Cost: 625 Path (reversed): Berlin 150 London 475 Paris
+
+Cost: 700 Path (reversed): Rome 225 London 475 Paris
+
+Cost: 350 Path (reversed): NewYork 350 Paris
+
+Cost: 625 Path (reversed): Caracas 275 NewYork 350 Paris
+
+Cost: 220 Path (reversed): Rome 220 Paris
+
+Cost: 470 Path (reversed): Berlin 250 Rome 220 Paris
+
+Cost: 620 Path (reversed): London 150 Berlin 250 Rome 220 Paris
+
+Cost: 445 Path (reversed): London 225 Rome 220 Paris
+
+Cost: 595 Path (reversed): Berlin 150 London 225 Rome 220 Paris
+
+Cost: 350 Path (reversed): Moscow 130 Rome 220 Paris
+
+Cost: 525 Path (reversed): Istanbul 525 Paris
+
+Cost: 730 Path (reversed): HongKong 730 Tokyo
+
+Cost: 670 Path (reversed): HongKong 670 Sydney
+
+Cost: 730 Path (reversed): Tokyo 730 HongKong
+
+Cost: 670 Path (reversed): Sydney 670 HongKong
+
+Cost: 250 Path (reversed): Berlin 250 Rome
+
+Cost: 400 Path (reversed): London 150 Berlin 250 Rome
+
+Cost: 700 Path (reversed): Paris 450 Berlin 250 Rome
+
+Cost: 225 Path (reversed): London 225 Rome
+
+Cost: 375 Path (reversed): Berlin 150 London 225 Rome
+
+Cost: 700 Path (reversed): Paris 475 London 225 Rome
+
+Cost: 220 Path (reversed): Paris 220 Rome
+
+Cost: 670 Path (reversed): Berlin 450 Paris 220 Rome
+
+Cost: 695 Path (reversed): London 475 Paris 220 Rome
+
+Cost: 570 Path (reversed): NewYork 350 Paris 220 Rome
+
+Cost: 745 Path (reversed): Istanbul 525 Paris 220 Rome
+
+Cost: 130 Path (reversed): Moscow 130 Rome
+
+Cost: 620 Path (reversed): Istanbul 490 Moscow 130 Rome
+
+Cost: 780 Path (reversed): Cairo 780 Rome
+
+Cost: 625 Path (reversed): NewYork 625 LosAngeles
+
+Cost: 725 Path (reversed): London 725 Calcutta
+
+Cost: 555 Path (reversed): Cairo 555 Calcutta
+
+Cost: 275 Path (reversed): NewYork 275 Caracas
+
+Cost: 625 Path (reversed): Paris 350 NewYork 275 Caracas
+
+Cost: 755 Path (reversed): BuenosAires 480 NewYork 275 Caracas
+
+Cost: 750 Path (reversed): Berlin 750 Moscow
+
+Cost: 130 Path (reversed): Rome 130 Moscow
+
+Cost: 380 Path (reversed): Berlin 250 Rome 130 Moscow
+
+Cost: 530 Path (reversed): London 150 Berlin 250 Rome 130 Moscow
+
+Cost: 355 Path (reversed): London 225 Rome 130 Moscow
+
+Cost: 505 Path (reversed): Berlin 150 London 225 Rome 130 Moscow
+
+Cost: 350 Path (reversed): Paris 220 Rome 130 Moscow
+
+Cost: 800 Path (reversed): Berlin 450 Paris 220 Rome 130 Moscow
+
+Cost: 700 Path (reversed): NewYork 350 Paris 220 Rome 130 Moscow
+
+Cost: 490 Path (reversed): Istanbul 490 Moscow
+
+Cost: 480 Path (reversed): NewYork 480 BuenosAires
+
+Cost: 755 Path (reversed): Caracas 275 NewYork 480 BuenosAires
+
+Cost: 525 Path (reversed): Paris 525 Istanbul
+
+Cost: 745 Path (reversed): Rome 220 Paris 525 Istanbul
+
+Cost: 490 Path (reversed): Moscow 490 Istanbul
+
+Cost: 620 Path (reversed): Rome 130 Moscow 490 Istanbul
+
+Cost: 320 Path (reversed): Cairo 320 Istanbul
+
+Cost: 780 Path (reversed): Rome 780 Cairo
+
+Cost: 555 Path (reversed): Calcutta 555 Cairo
+
+Cost: 320 Path (reversed): Istanbul 320 Cairo
+
+ALL PATHS OF COST 300 OR LESS
+Note that paths are duplicated, once from each end city's point of view
+-----------------------------------------------------------------------
+List of paths at most 300 in length:
+Cost: 150 Path (reversed): London 150 Berlin
+
+Cost: 250 Path (reversed): Rome 250 Berlin
+
+Cost: 150 Path (reversed): Berlin 150 London
+
+Cost: 225 Path (reversed): Rome 225 London
+
+Cost: 275 Path (reversed): Caracas 275 NewYork
+
+Cost: 220 Path (reversed): Rome 220 Paris
+
+Cost: 250 Path (reversed): Berlin 250 Rome
+
+Cost: 225 Path (reversed): London 225 Rome
+
+Cost: 220 Path (reversed): Paris 220 Rome
+
+Cost: 130 Path (reversed): Moscow 130 Rome
+
+Cost: 275 Path (reversed): NewYork 275 Caracas
+
+Cost: 130 Path (reversed): Rome 130 Moscow
+
