@@ -1,0 +1,320 @@
+	Adding some data to the PHPArray
+		Size: 7 -- resizing array from 15 to 30
+	Showing contents using Iterable interface:
+Next item is 20
+Next item is 100
+Next item is 40
+Next item is 50
+Next item is 1
+Next item is 2
+Next item is 3
+Next item is 75
+Next item is 10
+Next item is 80
+Next item is 30
+Next item is 4
+Next item is 5
+Next item is 6
+
+	Showing contents using each() method:
+Key: Zany Value: 20
+Key: Wacky Value: 100
+Key: Hilarious Value: 40
+Key: Fun Value: 50
+Key: 0 Value: 1
+Key: 1 Value: 2
+Key: 2 Value: 3
+Key: More Value: 75
+Key: Hashing Value: 10
+Key: Craziness Value: 80
+Key: Here Value: 30
+Key: 5 Value: 4
+Key: 6 Value: 5
+Key: 7 Value: 6
+
+The keys are:
+Zany Wacky Hilarious Fun 0 1 2 More Hashing Craziness Here 5 6 7 
+
+The values are:
+20 100 40 50 1 2 3 75 10 80 30 4 5 6 
+
+	Raw Hash Table Contents:
+0: null
+1: Key: Wacky Value: 100
+2: null
+3: null
+4: null
+5: null
+6: Key: Hilarious Value: 40
+7: null
+8: Key: Hashing Value: 10
+9: Key: Craziness Value: 80
+10: null
+11: null
+12: null
+13: Key: More Value: 75
+14: null
+15: null
+16: null
+17: null
+18: Key: 0 Value: 1
+19: Key: 1 Value: 2
+20: Key: 2 Value: 3
+21: null
+22: null
+23: Key: 5 Value: 4
+24: Key: 6 Value: 5
+25: Key: 7 Value: 6
+26: null
+27: Key: Fun Value: 50
+28: Key: Zany Value: 20
+29: Key: Here Value: 30
+
+	Looking up some keys:
+Key: Hashing has value 10
+Key: 2 has value 3
+Key: Weasel is not found
+
+	Iterating using traditional for loop
+A[0] = 1
+A[1] = 2
+A[2] = 3
+A[3] = null
+A[4] = null
+A[5] = 4
+A[6] = 5
+A[7] = 6
+A[8] = null
+A[9] = null
+A[10] = null
+A[11] = null
+A[12] = null
+A[13] = null
+
+	Deleting keys 'Hashing', 'Zany' and 2
+		Key Craziness rehashed...
+
+		Key Here rehashed...
+
+Key: Wacky Value: 100
+Key: Hilarious Value: 40
+Key: Fun Value: 50
+Key: 0 Value: 1
+Key: 1 Value: 2
+Key: More Value: 75
+Key: Craziness Value: 80
+Key: Here Value: 30
+Key: 5 Value: 4
+Key: 6 Value: 5
+Key: 7 Value: 6
+
+Hashing is not found
+Zany is not found
+2 is not found
+
+	Raw Hash Table Contents:
+0: null
+1: Key: Wacky Value: 100
+2: null
+3: null
+4: null
+5: null
+6: Key: Hilarious Value: 40
+7: null
+8: Key: Craziness Value: 80
+9: null
+10: null
+11: null
+12: null
+13: Key: More Value: 75
+14: null
+15: null
+16: null
+17: null
+18: Key: 0 Value: 1
+19: Key: 1 Value: 2
+20: null
+21: null
+22: null
+23: Key: 5 Value: 4
+24: Key: 6 Value: 5
+25: Key: 7 Value: 6
+26: null
+27: Key: Fun Value: 50
+28: Key: Here Value: 30
+29: null
+
+	Demonstrating put() to replace value for existing key
+	Updating keys 'Wacky' and 'Craziness' with new values
+Key: Wacky Value: 111
+Key: Hilarious Value: 40
+Key: Fun Value: 50
+Key: 0 Value: 1
+Key: 1 Value: 2
+Key: More Value: 75
+Key: Craziness Value: 222
+Key: Here Value: 30
+Key: 5 Value: 4
+Key: 6 Value: 5
+Key: 7 Value: 6
+
+	Sorting the data
+Key: 0 Value: 1
+Key: 1 Value: 2
+Key: 2 Value: 4
+Key: 3 Value: 5
+Key: 4 Value: 6
+Key: 5 Value: 30
+Key: 6 Value: 40
+Key: 7 Value: 50
+Key: 8 Value: 75
+Key: 9 Value: 111
+Key: 10 Value: 222
+
+	Printing out via int indices:
+A[0] = 1
+A[1] = 2
+A[2] = 4
+A[3] = 5
+A[4] = 6
+A[5] = 30
+A[6] = 40
+A[7] = 50
+A[8] = 75
+A[9] = 111
+A[10] = 222
+
+	Using a different base type
+		Size: 2 -- resizing array from 4 to 8
+		Size: 4 -- resizing array from 8 to 16
+Key: Elwes Value: Westley
+Key: Patinkin Value: Inigo
+Key: Wright Value: Buttercup
+Key: Shawn Value: Vizzini
+Key: Sarandon Value: Humperdinck
+Key: Andre Value: Fezzik
+Key: Guest Value: Rugen
+Key: Crystal Value: Max
+
+	Sorting with preservation of keys
+Key: Wright Value: Buttercup
+Key: Andre Value: Fezzik
+Key: Sarandon Value: Humperdinck
+Key: Patinkin Value: Inigo
+Key: Crystal Value: Max
+Key: Guest Value: Rugen
+Key: Shawn Value: Vizzini
+Key: Elwes Value: Westley
+
+Note that hash table order is still pseudo-random:
+	Raw Hash Table Contents:
+0: null
+1: null
+2: Key: Sarandon Value: Humperdinck
+3: Key: Shawn Value: Vizzini
+4: null
+5: Key: Wright Value: Buttercup
+6: Key: Crystal Value: Max
+7: null
+8: Key: Patinkin Value: Inigo
+9: Key: Guest Value: Rugen
+10: Key: Andre Value: Fezzik
+11: null
+12: null
+13: null
+14: Key: Elwes Value: Westley
+15: null
+
+	Showing values only:
+Next item is Buttercup
+Next item is Fezzik
+Next item is Humperdinck
+Next item is Inigo
+Next item is Max
+Next item is Rugen
+Next item is Vizzini
+Next item is Westley
+
+		Size: 2 -- resizing array from 4 to 8
+		Size: 4 -- resizing array from 8 to 16
+PHPArray of <String, StringBuilder>
+Key: Wright Value: Buttercup
+Key: Andre Value: Fezzik
+Key: Sarandon Value: Humperdinck
+Key: Patinkin Value: Inigo
+Key: Crystal Value: Max
+Key: Guest Value: Rugen
+Key: Shawn Value: Vizzini
+Key: Elwes Value: Westley
+
+Trying to sort PHPArray of StringBuilder
+PHPArray values are not Comparable -- cannot be sorted
+
+	Using iterator manually:
+Next item is Buttercup
+Next item is Fezzik
+Next item is Humperdinck
+Next item is Inigo
+Next item is Max
+Next item is Rugen
+Next item is Vizzini
+Next item is Westley
+
+	Adding some keys with the same values
+		Size: 8 -- resizing array from 16 to 32
+
+	Testing the array_flip() method, transposing keys and values
+	Original data:
+Key: Wright Value: Buttercup
+Key: Andre Value: Fezzik
+Key: Sarandon Value: Humperdinck
+Key: Patinkin Value: Inigo
+Key: Crystal Value: Max
+Key: Guest Value: Rugen
+Key: Shawn Value: Vizzini
+Key: Elwes Value: Westley
+Key: Keaton Value: Batman
+Key: Kilmer Value: Batman
+Key: Bale Value: Batman
+
+	Flipped data:
+Key: Buttercup Value: Wright
+Key: Fezzik Value: Andre
+Key: Humperdinck Value: Sarandon
+Key: Inigo Value: Patinkin
+Key: Max Value: Crystal
+Key: Rugen Value: Guest
+Key: Vizzini Value: Shawn
+Key: Westley Value: Elwes
+Key: Batman Value: Bale
+
+	Non-flippable array
+java.lang.ClassCastException: Cannot convert class java.lang.Integer to String
+
+	Demonstrating forEach construct
+1^2 = 1
+2^2 = 4
+4^2 = 16
+5^2 = 25
+6^2 = 36
+30^2 = 900
+40^2 = 1600
+50^2 = 2500
+75^2 = 5625
+111^2 = 12321
+222^2 = 49284
+
+Buttercup contains er
+Humperdinck contains er
+
+Humperdinck contains in
+Vizzini contains in
+
+Buttercup-inconceivable!
+Fezzik-inconceivable!
+Humperdinck-inconceivable!
+Inigo-inconceivable!
+Max-inconceivable!
+Rugen-inconceivable!
+Vizzini-inconceivable!
+Westley-inconceivable!
